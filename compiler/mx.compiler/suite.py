@@ -1,4 +1,4 @@
 suite = {
-  "version" : "23.1.12.0",
-  "release" : False,
+  "version" : "25.0.4.0",
+  "release" : True,
 }
